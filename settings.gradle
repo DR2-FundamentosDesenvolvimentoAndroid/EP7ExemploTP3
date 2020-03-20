@@ -1,0 +1,2 @@
+rootProject.name='ep7Exemplo'
+include ':app'
